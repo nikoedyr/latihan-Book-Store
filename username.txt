@@ -1,0 +1,6 @@
+
+Username and password app
+
+1. Admin--> Admin
+
+2. Kasir--> Kasir
