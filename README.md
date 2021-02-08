@@ -1,2 +1,3 @@
 # latihan
-latihan store book
+latihan membuat aplikasi web store book
+menggunakan web  
